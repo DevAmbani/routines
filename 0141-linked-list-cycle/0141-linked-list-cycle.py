@@ -11,7 +11,7 @@ class Solution:
         p1 = head
         p2 = head.next
         while p2 and p2.next:
-            if p1 == p2:
+            if p1 is p2:
                 return True
             p1 = p1.next
             p2 = p2.next.next
