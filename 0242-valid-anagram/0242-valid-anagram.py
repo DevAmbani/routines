@@ -10,8 +10,5 @@ class Solution:
             counts[s[i]] += 1
             countt[t[i]] += 1
         
-        if counts == countt:
-            return True
-        else:
-            return False
+        return counts == countt
             
