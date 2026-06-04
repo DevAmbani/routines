@@ -8,39 +8,30 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if not head or not head.next:
-            return
-
-        # Find middle
-        slow = fast = head
+        fast = head
+        slow = head
+        
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
-
-        # Reverse second half
+        
+        mid = slow
         prev = None
-        back = slow.next
-        slow.next = None  # keep front stream intact
 
-        while back:
-            nxt = back.next
-            back.next = prev
-            prev = back
-            back = nxt
-
-        # Weave: front (head) and back (prev)
-        front = head
-        back = prev
-        while back:
-            n1 = front.next
-            n2 = back.next
-
-            front.next = back
-            back.next = n1
-
-            front = n1
-            back = n2
-            
+        while mid:
+            temp = mid.next
+            mid.next = prev
+            prev = mid
+            mid = temp
         
-        
-        
+        curr = head
+        while curr and prev and prev.next:
+            temp1 = curr.next
+            temp2 = prev.next
+            curr.next = prev
+            prev.next = temp1
+
+            curr = temp1
+            prev = temp2
+
+        return head
