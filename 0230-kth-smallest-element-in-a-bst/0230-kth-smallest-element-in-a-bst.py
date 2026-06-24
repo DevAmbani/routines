@@ -18,6 +18,4 @@ class Solution:
         order(root)
         print(values)
 
-        for i in range(len(values)):
-            if i+1 == k:
-                return values[i]
+        return values[k-1]
