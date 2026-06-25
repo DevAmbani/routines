@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
 | [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevAmbani/routines/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevAmbani/routines/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DevAmbani/routines/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevAmbani/routines/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevAmbani/routines/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/DevAmbani/routines/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevAmbani/routines/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/DevAmbani/routines/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
@@ -148,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
