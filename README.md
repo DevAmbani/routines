@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevAmbani/routines/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/DevAmbani/routines/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/DevAmbani/routines/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DevAmbani/routines/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
 | [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -134,4 +136,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevAmbani/routines/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevAmbani/routines/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
+## Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
