@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DevAmbani/routines/tree/master/0023-merge-k-sorted-lists) |
+| [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
