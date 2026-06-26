@@ -33,4 +33,4 @@ class Solution:
             if dfs(course) is False:
                 return []
         
-        return visited
+        return visited[::1]
