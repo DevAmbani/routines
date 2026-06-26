@@ -1,35 +1,27 @@
-from collections import defaultdict
+from collections import defaultdict, deque
 
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        """
-        UNVISITED (0) → never been here
-        VISITING  (1) → currently in our DFS path (on the call stack)
-        VISITED   (2) → fully explored, confirmed no cycle below it
-        """
-        state = [0] * numCourses
-        courseSelection = defaultdict(list)
+        graph = defaultdict(list)        
+        indegree = [0] * numCourses      
 
-        for course, depedency in prerequisites:
-            courseSelection[course].append(depedency)
+        for course, prereq in prerequisites:
+            graph[prereq].append(course)
+            indegree[course] += 1
 
-        def dfs(course):
-            if state[course] == 1:
-                return False
-            if state[course] == 2:
-                return True
+        queue = deque()                  
+        for i in range(numCourses):
+            if indegree[i] == 0:
+                queue.append(i)
 
-            state[course] = 1
+        result = []
+        while queue:
+            node = queue.popleft()
+            result.append(node)
 
-            for depedency in courseSelection[course]:
-                if dfs(depedency) is False:
-                    return False
-            
-            state[course] = 2
-            return True
-        
-        for course in range(numCourses):
-            if dfs(course) is False:
-                return False
-        
-        return True
+            for neighbor in graph[node]:
+                indegree[neighbor] -= 1
+                if indegree[neighbor] == 0:
+                    queue.append(neighbor)
+
+        return len(result) == numCourses
