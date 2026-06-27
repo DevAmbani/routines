@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DevAmbani/routines/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevAmbani/routines/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/DevAmbani/routines/tree/master/0076-minimum-window-substring) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevAmbani/routines/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DevAmbani/routines/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevAmbani/routines/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevAmbani/routines/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/DevAmbani/routines/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 ## Data Stream
 |  |
 | ------- |
@@ -187,10 +192,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DevAmbani/routines/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevAmbani/routines/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DevAmbani/routines/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevAmbani/routines/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
