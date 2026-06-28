@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DevAmbani/routines/tree/master/0076-minimum-window-substring) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevAmbani/routines/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DevAmbani/routines/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/DevAmbani/routines/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevAmbani/routines/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/DevAmbani/routines/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DevAmbani/routines/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 ## Data Stream
 |  |
 | ------- |
@@ -184,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0261-graph-valid-tree](https://github.com/DevAmbani/routines/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
