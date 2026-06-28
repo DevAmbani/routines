@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevAmbani/routines/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DevAmbani/routines/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/DevAmbani/routines/tree/master/0572-subtree-of-another-tree) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DevAmbani/routines/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/DevAmbani/routines/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DevAmbani/routines/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DevAmbani/routines/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/DevAmbani/routines/tree/master/0310-minimum-height-trees) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
