@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/DevAmbani/routines/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/DevAmbani/routines/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/DevAmbani/routines/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DevAmbani/routines/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DevAmbani/routines/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/DevAmbani/routines/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/DevAmbani/routines/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/DevAmbani/routines/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0743-network-delay-time](https://github.com/DevAmbani/routines/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DevAmbani/routines/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -233,4 +238,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/DevAmbani/routines/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
