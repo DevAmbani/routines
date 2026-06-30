@@ -3,29 +3,32 @@ from collections import defaultdict
 
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        graph = defaultdict(list)
-        dist = defaultdict(int)
-        
+        cost_graph = defaultdict(list)
+        dist = defaultdict(float)
         for u,v,w in times:
-            graph[u].append([v,w])
-
-        for i in (range(1, n+1)):
-            dist[i] = float('inf')
+            cost_graph[u].append([v,w])
         
+        for i in range(1, n+1):
+            dist[i] = float('inf')
         dist[k] = 0
 
-        heap = [(0,k)]
+        heap = [(0, k)]  # distance, node
 
         while heap:
             distance, node = heapq.heappop(heap)
             if distance > dist[node]:
                 continue
             
-            for neighbor, weight in graph[node]:
-                new_distance = dist[node] + weight
-                if new_distance < dist[neighbor]:
-                    dist[neighbor] = new_distance
-                    heapq.heappush(heap, (new_distance, neighbor))
+            for neighbor, cost in cost_graph[node]:
+                n_dist = dist[node] + cost
+                if n_dist < dist[neighbor]:
+                    dist[neighbor] = n_dist
+                    heapq.heappush(heap,(n_dist, neighbor))
         
-        max_dist = max(dist.values())
-        return max_dist if max_dist < float('inf') else -1
+        ans = -1
+        for each in dist.values():
+            if each == float('inf'):
+                return -1
+            ans = max(ans, each)
+        
+        return ans
