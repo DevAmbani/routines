@@ -6,7 +6,6 @@ class Solution:
         def backtrack(state):
             if (state not in ans) and (len(state) == len(nums)):
                 ans.append(state[:])
-                return
             
             for i in range(len(nums)):
                 if nums[i] in state:
