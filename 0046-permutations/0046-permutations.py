@@ -1,7 +1,6 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         ans = []
-        current = []
 
         def backtrack(state):
             if (state not in ans) and (len(state) == len(nums)):
