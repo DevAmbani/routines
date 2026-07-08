@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevAmbani/routines/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/DevAmbani/routines/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/DevAmbani/routines/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
