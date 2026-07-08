@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DevAmbani/routines/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DevAmbani/routines/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/DevAmbani/routines/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DevAmbani/routines/tree/master/0079-word-search) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevAmbani/routines/tree/master/0424-longest-repeating-character-replacement) |
 | [0721-accounts-merge](https://github.com/DevAmbani/routines/tree/master/0721-accounts-merge) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DevAmbani/routines/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DevAmbani/routines/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DevAmbani/routines/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DevAmbani/routines/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/DevAmbani/routines/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevAmbani/routines/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DevAmbani/routines/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/DevAmbani/routines/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/DevAmbani/routines/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DevAmbani/routines/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
