@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevAmbani/routines/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevAmbani/routines/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -249,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DevAmbani/routines/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/DevAmbani/routines/tree/master/1514-path-with-maximum-probability) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DevAmbani/routines/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
