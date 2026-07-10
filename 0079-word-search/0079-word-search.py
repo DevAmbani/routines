@@ -13,8 +13,7 @@ class Solution:
             if row < 0 or row >= len(board):
                 return False
             if col < 0 or col >= len(board[0]):
-                return False
-            
+                return False     
             if (row, col) in visited:
                 return False
 
