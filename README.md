@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevAmbani/routines/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/DevAmbani/routines/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/DevAmbani/routines/tree/master/0213-house-robber-ii) |
 | [0332-reconstruct-itinerary](https://github.com/DevAmbani/routines/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/DevAmbani/routines/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/DevAmbani/routines/tree/master/0695-max-area-of-island) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevAmbani/routines/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAmbani/routines/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0213-house-robber-ii](https://github.com/DevAmbani/routines/tree/master/0213-house-robber-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DevAmbani/routines/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DevAmbani/routines/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Hash Table
