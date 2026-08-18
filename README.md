@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/DevAmbani/routines/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/DevAmbani/routines/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DevAmbani/routines/tree/master/1584-min-cost-to-connect-all-points) |
+| [1929-concatenation-of-array](https://github.com/DevAmbani/routines/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -290,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevAmbani/routines/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/DevAmbani/routines/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
